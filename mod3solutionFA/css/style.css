@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: cursive;
+}
+
+h1 {
+  font-size: 2em;
+  font-family: cursive;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.navbar-brand {
+  font-size: 2em;
+  border: 0;
+  color: floralwhite;
+}
+.nav-brand {
+  font-size: 2em;
+  color: floralwhite;
+}
+
+#header-nav {
+  border: 0;
+  background-color: orangered;
+  color: floralwhite;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid floralwhite;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -2em;
+}
+
+#nav-list {
+  font-size: 1.5em;
+  background-color: darkorange;
+  margin: 0;
+  vertical-align: center middle;
+}
+
+.item {
+  color: floralwhite;
+  font-size: 1.5em;
+  vertical-align: middle;
+  margin: 1%;
+}
+
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+hr {
+  border-color: orangered;
+  border-width: 3px;
+}
+
+.container-fluid{
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: bold;
+  border: 0px solid black;
+  position: relative;
+  margin: auto;
+  width:  span;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 30%;
+  padding: 5px;
+}
+
+
+section {
+  border: 0px;
+  background-color: beige;
+  width: span;
+  height: 1000px;
+  position: center middle;
+  overflow: auto;
+  margin:  2% 5% 2% 5%;
+}
+
+p{margin: 5px};
+  /*testing from here on down*/
+
+
+
+
+
+
+
